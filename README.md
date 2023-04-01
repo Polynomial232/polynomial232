@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Polynomial</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=polynomial232&label=Profile%20views&color=0e75b6&style=flat" alt="polynomial232" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=polynomial232" alt="polynomial232" /></a> </p>
-
-- 🔭 I’m currently working on [dartmedia](https://dartmedia.co.id/)
 
 - 🌱 I’m currently learning **Backend Javascript, Backend Python And Deep Learning, React**
 
