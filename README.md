@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Polynomial</h1>
 
 
-- 🌱 I’m currently learning **Backend Javascript, Backend Python And Deep Learning, React**
+- 🌱 I’m currently learning **Backend NodeJS, Backend PHP And Deep Learning**
 
 - 📫 How to reach me **daffadhiya50@gmail.com**
 
